@@ -12,7 +12,7 @@ A simple web application that generates random pictures each time a button is cl
 
 ## Demo
 
-You can see the live demo of the Random Pic Generator [here](https://hardik-techie.github.io/Random-Pic-Generator/).
+You can see the live demo of the Random Pic Generator [here](https://hardiksrivatavaa.github.io/Random-Pic-Generator/).
 
 ## Technologies Used
 
